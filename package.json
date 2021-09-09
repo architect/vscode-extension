@@ -6,7 +6,7 @@
   "publisher": "architect",
   "author": "Ryan Block <hello@ryanblock.com>",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/architect/vscode-extension",
+  "homepage": "https://arc.codes",
   "repository": {
     "type": "git",
     "url": "https://github.com/architect/vscode-extension.git"

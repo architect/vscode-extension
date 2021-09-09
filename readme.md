@@ -1,6 +1,6 @@
 # Architect for VS Code
 
-<p align=center><img src="https://github.com/architect/vscode-extension/raw/main/assets/architect-logo-black-white-outline-transparent.png" width=500></p>
+<p align=center><img src="https://github.com/architect/vscode-extension/raw/main/assets/architect-logo-black-white-outline-transparent.png?raw=true" width=500></p>
 
 Full support for all standard OpenJS Architect file format values, including:
 
