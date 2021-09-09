@@ -1,5 +1,5 @@
 {
-  "name": "@architect/vscode-extension",
+  "name": "architect",
   "version": "0.0.0",
   "displayName": "Architect",
   "description": "Official extension for Architect, including syntax highlighting for the Architect file format (app.arc, .arc, config.arc, and prefs.arc)",
