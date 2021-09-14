@@ -1,6 +1,6 @@
 {
   "name": "architect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Architect",
   "description": "Official VS Code extension for Architect, including syntax highlighting for the Architect file format (app.arc, .arc, config.arc, and prefs.arc)",
   "publisher": "architect",
