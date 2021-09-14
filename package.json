@@ -65,10 +65,10 @@
   "markdown": "github",
   "devDependencies": {
     "@architect/syntaxes": "git+https://github.com/architect/syntaxes.git",
-    "vsce": "^1.97.0"
+    "vsce": "^1.99.0"
   },
   "scripts": {
-    "build": "rm arc-textmate.json && cp node_modules/@architect/syntaxes/arc-textmate.json ./"
+    "build": "rm -rf node_modules/@architect arc-textmate.json && npm i && cp node_modules/@architect/syntaxes/arc-textmate.json ./"
   },
   "keywords": [
     "aws",
