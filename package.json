@@ -65,7 +65,7 @@
   "markdown": "github",
   "devDependencies": {
     "@architect/syntaxes": "git+https://github.com/architect/syntaxes.git",
-    "vsce": "^1.99.0"
+    "vsce": "^2.7.0"
   },
   "scripts": {
     "build": "rm -rf node_modules/@architect arc-textmate.json && npm i && cp node_modules/@architect/syntaxes/arc-textmate.json ./"

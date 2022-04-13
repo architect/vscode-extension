@@ -1,7 +1,7 @@
 {
   "name": "Architect",
   "scopeName": "source.arc",
-  "firstLineMatch": "^@[a-zA-Z0-9!$%^&*(){}\\[\\]<>\\-_\\+=\\|\\\\:;,\\.\\?/~]+",
+  "firstLineMatch": "^@[a-zA-Z0-9-_]+",
   "patterns": [
     {
       "include": "#comments"
@@ -18,7 +18,7 @@
     {
       "comment": "pragmas",
       "name": "entity.name.function.arc",
-      "match": "^@[a-zA-Z0-9!$%^&*(){}\\[\\]<>\\-_\\+=\\|\\\\:;,\\.\\?/~]+"
+      "match": "^@[a-zA-Z0-9-_]+"
     },
     {
       "comment": "map properties & implied vector values; map / vector names cannot be detected",

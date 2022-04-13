@@ -2,7 +2,13 @@
 
 ---
 
-## [1.0.2] 2022-04-12
+## [1.0.2 - 1.0.3] 2022-04-12
+
+### Changed
+
+- Minor update to first line regex
+- Updated dependencies
+
 
 ### Fixed
 
